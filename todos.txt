@@ -1,0 +1,4 @@
+sleep
+cook
+washing
+hitting
